@@ -1,0 +1,15 @@
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\bin\Debug\ApiBotTelegram.exe.config
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\bin\Debug\ApiBotTelegram.exe
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\bin\Debug\ApiBotTelegram.pdb
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\bin\Debug\Telegram.Bot.dll
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\bin\Debug\Telegram.Bot.xml
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\obj\Debug\ApiBotTelegram.csprojAssemblyReference.cache
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\obj\Debug\ApiBotTelegram.csproj.CoreCompileInputs.cache
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\obj\Debug\ApiBotTelegram.csproj.CopyComplete
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\obj\Debug\ApiBotTelegram.exe
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\obj\Debug\ApiBotTelegram.pdb
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\bin\Debug\Exceptionless.dll
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\bin\Debug\Exceptionless.pdb
+C:\Users\romak\source\repos\ApiBotTelegram\ApiBotTelegram\bin\Debug\Exceptionless.xml
